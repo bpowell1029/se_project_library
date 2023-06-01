@@ -30,10 +30,6 @@
   width: 196px;
 }
 
-.logo {
-  /*delete this class later*/
-}
-
 .nav__links {
   /* Reset default list styles here */
   display: flex;
